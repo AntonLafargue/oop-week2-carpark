@@ -1,0 +1,6 @@
+C:\Users\ANTON\RiderProjects\parking\parking\obj\Debug\parking.csprojAssemblyReference.cache
+C:\Users\ANTON\RiderProjects\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+C:\Users\ANTON\RiderProjects\parking\parking\bin\Debug\parking.exe
+C:\Users\ANTON\RiderProjects\parking\parking\bin\Debug\parking.pdb
+C:\Users\ANTON\RiderProjects\parking\parking\obj\Debug\parking.exe
+C:\Users\ANTON\RiderProjects\parking\parking\obj\Debug\parking.pdb
